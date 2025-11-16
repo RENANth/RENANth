@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="center">ᕮᒪ Oᖇᗞᕮᘉ ᗩQᑌI!!!</h1>
+<h3 align="left">ᕮᒪ Oᖇᗞᕮᘉ ᗩQᑌI!!!</h3>
 
 ###
 
